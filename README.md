@@ -7,7 +7,6 @@ Portfolio website build using HTML5, CSS3, JavaScript and Bootstrap.
 Html, CSS, JavaScript, Bootstrap
 
 
-
 <h2>📬 Contact</h2>
 
 
