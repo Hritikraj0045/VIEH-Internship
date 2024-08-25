@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and Bootstrap.
 
-<a href="https://portfoliovieh.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://hritikraj.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 ## Tech Stack
 Html, CSS, JavaScript, Bootstrap
